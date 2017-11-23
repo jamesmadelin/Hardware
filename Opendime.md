@@ -6,7 +6,7 @@ When the device is new it does not contain a bitcoin key, the original user of t
 
 The user is then able to fund this address with whatever amount of bitcoin they would like to transact with.  The device does not reveal the private key at this stage.  
 
-The device when plugged in will display the balance of bitcoins it contains and indicate it is still sealed.  To unseal the device you must physically alter it..  This modification can be seen visually and after alteration when the device is plugged in the private key is revealed and can be used to spend the bitcoins.
+The device when plugged in will display the balance of bitcoins it contains and indicate it is still sealed.  To unseal the device you must physically alter it.  This modification can be seen visually and after alteration when the device is plugged in the private key is revealed and can be used to spend the bitcoins.
 
 Whilst the device is sealed it is not possible to spend the coins and easy to prove it is sealed, this allows a single open dime to be reused and passed from person to person, perhaps with increasing amounts of value for each transaction.
 
