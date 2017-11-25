@@ -13,3 +13,5 @@ If you would like to make your Cryptosteel tamper evident we suggest using a cab
 If you are unable to bury your Cryptosteel you are able to hide it inside a wall, under a floor.
 
 https://cryptosteel.com
+
+![img3](https://cryptosteel.com/wp-content/uploads/2016/06/product_ANY-1-768x929.jpg "Cryptosteel")
