@@ -10,7 +10,7 @@ The Cryptosteel also features a hole on which a padlock can be attached to preve
 
 If you would like to make your Cryptosteel tamper evident we suggest using a cable tie in conjunction with a padlock and to paint the cable tie with a glitter nail polish and to then take a high resolution photo you are able to use for visual comparison.  
 
-If you are unable to bury your Cryptosteel you are able to hide it inside a wall, under a floor.
+If you are unable to bury your Cryptosteel, then if possible hide it inside a wall or under a floor.
 
 https://cryptosteel.com
 
