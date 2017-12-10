@@ -2,9 +2,9 @@
 
 OPENDIME is dedicated a usb device.  It's like a piggy-bank. You must destroy it to spend the funds.
 
-When the device is new it does not contain a bitcoin key, the original user of the device proves some entropy (random data) such as a photo and the device will use this in conjunction with other data to create a unique bitcoin address.  
+When the device is new it does not contain a bitcoin key, the original user must give it entropy (random numbers). Once it's gotten enough numbers, it will hash them all together and use that to pick a random number to use as the private key. 
 
-The user is then able to fund this address with whatever amount of bitcoin they would like to transact with.  The device does not reveal the private key at this stage.  
+The user is then able to fund the address with whatever amount of bitcoin they would like to transact with.  The device does not reveal the private key at this stage.  
 
 The device when plugged in will display the balance of bitcoins it contains and indicate it is still sealed.  To unseal the device you must physically alter it.  This modification can be seen visually and after alteration when the device is plugged in the private key is revealed and can be used to spend the bitcoins.
 
