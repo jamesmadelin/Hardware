@@ -11,3 +11,14 @@ It is possible to configure a computer with the necessary tools to handle seeds,
 Please note an online computer is needed to create a transaction and to broadcast it to the network after it has been signed.  You transfer the unsigned transaction to and from the air gapped computer using a webcam or removable media, never a network connection. 
 
 Always backup any private keys used on an air gapped computer, preferably using Mnemonic wallet as outlined above.
+
+### Other Tools for use on an Air Gapped Computer
+
+#### Bit Address
+https://www.bitaddress.org provides tools for bitcoin private keys
+
+#### Coinb.in
+https://coinb.in is a multi featured web wallet
+
+#### BIP39 Mnemonic Code Converter
+https://iancoleman.io/bip39/ 
