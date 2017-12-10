@@ -1,6 +1,6 @@
 ## Cryptosteel
 
-Cryptosteel is a device you can use to backup a seed or private key.  The device is supplied un assembeled.
+Cryptosteel is a device you can use to backup a seed or private key.  The device is supplied un assembeled, meaning your seed or private keys remain private.
 
 ### Cryptosteel Security - Glitter polish and Burial 
 
@@ -14,4 +14,4 @@ If you are unable to bury your Cryptosteel, then if possible hide it inside a wa
 
 https://cryptosteel.com
 
-![img3](https://cryptosteel.com/wp-content/uploads/2016/06/product_ANY-1-768x929.jpg "Cryptosteel")
+![img0](https://cryptosteel.com/wp-content/uploads/2016/06/product_ANY-1-768x929.jpg "Cryptosteel")
