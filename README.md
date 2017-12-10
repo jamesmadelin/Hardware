@@ -12,7 +12,7 @@ Below we take you through the various types of hardware that are highly recommen
 
 Bitcoin Fullnode - coming soon!
 
-Bitcoin Miner - coming soon!
+[Miner](https://github.com/OSBitcoinInfo/Hardware/blob/master/Miner.md)
 
 It may be necessary to work with seeds and or private keys.  If you find this is the case then we strongly suggest only doing so with either an air-gapped computer or one that has been booted in a secure manner.
 
