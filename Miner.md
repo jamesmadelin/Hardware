@@ -1,6 +1,6 @@
 ## Bitcoin Miner
 
-A bitcoin mining machine is a specialist device and contains what are known as an Application Specific Integrated Circuits (ASICs).  
+A bitcoin mining machine is a specialist device and contains what are known as Application Specific Integrated Circuits (ASICs).  
 
 Bitcoin mining ASICs perform a single function are able to compute SHA256 hashes at an incredible speed.  This is all they are able to do.
 
