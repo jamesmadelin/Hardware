@@ -14,6 +14,7 @@ Below we take you through the various types of hardware that are highly recommen
 
 It may be necessary to work with seeds and or private keys.  If you find this is the case then we strongly suggest only doing so with either an air-gapped computer or one that has been booted in a secure manner.
 
+[Air Gapped](https://github.com/OSBitcoinInfo/Hardware/blob/master/Airgapped.md)
 [Secure Boot](https://github.com/OSBitcoinInfo/Hardware/blob/master/Secure-boot.md)
 
 Bitcoin Mining is always a topic of interest.
