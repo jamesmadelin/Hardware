@@ -1,6 +1,6 @@
 ## Fullnode
 
-A Bitcoin fullnode is a computer on which the bitcoind software is running.  Bitcoind can be run on various platforms, with or without a wallet and with or without a Graphical User Interface (GUI) and can be configured in variety of  ways.
+A Bitcoin fullnode is a computer on which the bitcoin software is running.  Bitcoin can be run on various platforms, with or without a wallet and with or without a Graphical User Interface (GUI) and can be configured in variety of  ways.
 
 Various configuration types have names, a node with a full copy of the blockchain is known as an archive node, a node without an entire copy of the blockchain is known as a pruned node.
 
@@ -12,4 +12,4 @@ In order to initialise a fullnode the entire blockchain must be downloaded and v
 
 It is possible to run a fullnode on a low power low cost computer such as a Raspberry Pi, although we suggest performing the initial blockchain download and sync with something a little more powerful.
 
-Using the bitcoin.conf configuration file it is possible to instruct your node to connect to TOR only for added privacy.  It is also then possible to configure SPV mobile wallets such as Samourai to connect to your fullnode.
+Using the bitcoin.conf configuration file it is possible to instruct your node to connect to TOR only for added privacy.  It is also then possible to configure SPV mobile wallets such as [Samourai](https://samouraiwallet.com) to connect to your fullnode.
