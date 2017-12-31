@@ -17,7 +17,7 @@ This Mnemonic Code Converter is a great tool for offline line use on a secure bo
 
 The Amniotic Incognito Live System https://tails.boum.org   The TAILS Operating System is used to boot a secure computer.  It takes a little setting up but is worth the effort.   TAILS includes TOR and routes all connections over it by default for added privacy, when connected to the internet.
 
-The TAILS operating system is launched from a USB stick and will not use your hard disk, it will also forget everything when powered down.  Ensure you have a backup of all your data  data e.g. your mnemonic seed.
+The TAILS operating system is launched from a USB stick and will not use your hard disk, it will also forget everything when powered down.  Ensure you have a backup of all your data e.g. your mnemonic seed.
 
 TAILS includes Electrum wallet which can be connected to [Trezor](https://shop.trezor.io/?a=684afda09cbe) and [Ledger](https://www.ledgerwallet.com/r/b85c) hardware wallets. 
 
