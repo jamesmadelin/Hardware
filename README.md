@@ -6,7 +6,7 @@ Below we take you through the various types of hardware that are highly recommen
 
 [Hardware Wallets](https://github.com/OSBitcoinInfo/Hardware/blob/master/Hardware-wallets.md), e.g. [Trezor](https://shop.trezor.io/?a=684afda09cbe) and [Ledger](https://www.ledgerwallet.com/r/b85c) are essential to safely handle coins on any device.
 
-[Cryptosteel](https://github.com/OSBitcoinInfo/Hardware/blob/master/Cryptosteel.md) is the ultimate backup.
+[Cryptosteel](https://github.com/cryptosteel/cryptosteel) is the ultimate backup.
 
 [Opendime](https://github.com/OSBitcoinInfo/Hardware/blob/master/Opendime.md) makes bitcoin physical on demand.
 
