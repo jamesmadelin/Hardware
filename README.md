@@ -8,7 +8,7 @@ Below we take you through the various types of hardware that are highly recommen
 
 [Cryptosteel](https://github.com/cryptosteel/cryptosteel) is the ultimate backup.
 
-[Opendime](https://github.com/OSBitcoinInfo/Hardware/blob/master/Opendime.md) makes bitcoin physical on demand.
+[Opendime](https://github.com/opendime/opendime) makes bitcoin physical on demand.
 
 [Fullnode](https://github.com/OSBitcoinInfo/Hardware/blob/master/Fullnode.md) for both privacy and security.
 
